@@ -15,3 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=neovim,vim,vscode,bash,debian,git,github,githubactions,docker,aws)](https://skillicons.dev)
 
 ---
+
+## GitHub Activities
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hietan)](https://github.com/anuraghazra/github-readme-stats)
